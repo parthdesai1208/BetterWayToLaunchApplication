@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BetterWayToLaunchApplication</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="short_bio">Short Bio</string>
+    <string name="name">Name</string>
+    <string name="profile_photo_url">profile photo url</string>
+</resources>
